@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20260103-1114-Experimental"
+	Name="(empty)"
+	Generator="ctest-4.1.2"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="desmond-VMware-Virtual-Platform"
+	OSRelease="6.14.0-37-generic"
+	OSVersion="#37~24.04.1-Ubuntu SMP PREEMPT_DYNAMIC Thu Nov 20 10:25:38 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="AuthenticAMD"
+	VendorID="Advanced Micro Devices"
+	FamilyID="25"
+	ModelID="80"
+	ModelName="AMD Ryzen 5 PRO 5650U with Radeon Graphics"
+	ProcessorCacheSize="512"
+	NumberOfLogicalCPU="6"
+	NumberOfPhysicalCPU="6"
+	TotalVirtualMemory="3866"
+	TotalPhysicalMemory="7893"
+	LogicalProcessorsPerPhysical="1"
+	ProcessorClockFrequency="2295.68"
+	>
+	<Testing>
+		<StartDateTime>Jan 03 19:37 HKT</StartDateTime>
+		<StartTestTime>1767440268</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 03 19:37 HKT</EndDateTime>
+		<EndTestTime>1767440268</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

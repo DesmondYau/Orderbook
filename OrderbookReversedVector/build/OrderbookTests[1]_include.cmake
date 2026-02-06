@@ -1,0 +1,5 @@
+if(EXISTS "/home/desmond/Desmond/C++/Projects/Orderbook/OrderbookReversedVector/build/OrderbookTests[1]_tests.cmake")
+  include("/home/desmond/Desmond/C++/Projects/Orderbook/OrderbookReversedVector/build/OrderbookTests[1]_tests.cmake")
+else()
+  add_test(OrderbookTests_NOT_BUILT OrderbookTests_NOT_BUILT)
+endif()

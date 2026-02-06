@@ -1,0 +1,16 @@
+{
+  "version": 4,
+  "configurePresets": [
+    {
+      "name": "default",
+      "displayName": "Default C++23 Build",
+      "description": "Build using C++23 with Unix Makefiles",
+      "generator": "Unix Makefiles",
+      "binaryDir": "${sourceDir}/build",
+      "cacheVariables": {
+        "CMAKE_CXX_STANDARD": "23",
+        "CMAKE_BUILD_TYPE": "Debug"
+      }
+    }
+  ]
+}
